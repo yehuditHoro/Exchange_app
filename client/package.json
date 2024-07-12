@@ -1,0 +1,21 @@
+{
+  "name": "currency-exchange-rates",
+  "version": "1.0.0",
+  "description": "A simple app to display currency exchange rates",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "@vitejs/plugin-react": "^2.0.0"
+  },
+  "author": "Yehudit",
+  "license": "ISC"
+}
