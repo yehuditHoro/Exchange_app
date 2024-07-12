@@ -25,7 +25,7 @@ The Exchange App is a powerful tool designed to provide real-time currency excha
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yehuditHoro/Exchange_app.git## Configuration
+   git clone https://github.com/yehuditHoro/Exchange_app.git
 
 ## Configuration
 - Modify the environment variables in the `server` directory's `.env` file to change the API key and other settings.
